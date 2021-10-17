@@ -1,16 +1,13 @@
-# BMISense
 
-A new Flutter project.
+# BMI SENSE
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# framework
+~ Flutter framework
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  | Screen 1                                                   | Screen 2                                                | Screen 1                                                   |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="images/BMI1.jpg" width=200 alt="Splash Screen"> | <img src="images/BMI2.jpg" width=200 alt="Home Page"> | <img src="images/BMI1.jpg" width=200 alt="Home Page"> |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
